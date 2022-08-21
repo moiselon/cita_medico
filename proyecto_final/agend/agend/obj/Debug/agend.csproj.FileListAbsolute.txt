@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\proyecto_final\agend\agend\bin\Debug\agend.exe.config
+C:\Users\HP\Desktop\proyecto_final\agend\agend\bin\Debug\agend.exe
+C:\Users\HP\Desktop\proyecto_final\agend\agend\bin\Debug\agend.pdb
+C:\Users\HP\Desktop\proyecto_final\agend\agend\obj\Debug\agend.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\proyecto_final\agend\agend\obj\Debug\agend.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\proyecto_final\agend\agend\obj\Debug\agend.Form1.resources
+C:\Users\HP\Desktop\proyecto_final\agend\agend\obj\Debug\agend.Form2.resources
+C:\Users\HP\Desktop\proyecto_final\agend\agend\obj\Debug\agend.Properties.Resources.resources
+C:\Users\HP\Desktop\proyecto_final\agend\agend\obj\Debug\agend.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\proyecto_final\agend\agend\obj\Debug\agend.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\proyecto_final\agend\agend\obj\Debug\agend.exe
+C:\Users\HP\Desktop\proyecto_final\agend\agend\obj\Debug\agend.pdb
